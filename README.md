@@ -17,7 +17,7 @@ Des vidéos explicatives sont disponibles sur [YouTube](https://www.youtube.com/
 
 Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, de le modifier et de le distribuer, sous réserve de conserver l'attribution et de respecter les termes de la licence.
 
-> **Note** : Ce projet est actuellement **maintenu** et les contributions sont les bienvenues sur le discord officiel : [Discord](https://discord.gg/JR3ENr5Db5.)
+> **Note** : Ce projet est actuellement **maintenu** et les contributions sont les bienvenues sur le discord officiel : [Discord](https://discord.gg/JR3ENr5Db5)
 
 ## ☕️ Supportez le projet
 
